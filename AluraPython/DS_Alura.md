@@ -1,4 +1,4 @@
-## Data Science courses from Alura Platform
+##Data Science courses from Alura Platform
 
   - [Python for Data Science: Numpy](https://cursos.alura.com.br/certificate/2ae3b15c-37d4-4ab6-9f1d-57d5bba9a107)
   - [Python for Data Science: Functions, Packages and Basic Pandas](https://cursos.alura.com.br/certificate/a786a2cf-8ebf-423f-ade8-b0bb9f003be5)
