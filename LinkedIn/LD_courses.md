@@ -3,7 +3,7 @@
 Certificates of the LinkedIn courses on AI I completed. All courses included practical programming exercises. 
 
 ### Learning Paths
-- Become a Data Scientist - (Certificate)[https://github.com/mlfa03/MyCourses/blob/main/LinkedIn/Certificates/CertificateOfCompletion_Become%20a%20Data%20Scientist.pdf]
+- Become a Data Scientist - [Certificate](https://github.com/mlfa03/MyCourses/blob/main/LinkedIn/Certificates/CertificateOfCompletion_Become%20a%20Data%20Scientist.pdf)
 
 - Learning Path: Digital Transformation for Leaders - (Certificate)[https://github.com/mlfa03/MyCourses/blob/main/LinkedIn/Certificates/CertificateOfCompletion_Digital%20Transformation%20for%20Leaders.pdf]
 
