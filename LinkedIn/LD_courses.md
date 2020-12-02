@@ -1,4 +1,4 @@
-## Artificial Intelligence LinkedIn Courses 
+## Linkedin Courses 
 
 Certificates of the LinkedIn courses on AI I completed. All courses included practical programming exercises. 
 
