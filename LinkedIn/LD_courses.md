@@ -43,9 +43,9 @@ Certificates of the LinkedIn courses on AI I completed. All courses included pra
  
  - Operational Excellence Foundations - [Certificate](https://github.com/mlfa03/MyCourses/blob/main/LinkedIn/Certificates/CertificateOfCompletion_Operational%20Excellence%20Foundations.pdf)
  
- - Scrum Advanced - [Certificate)(https://github.com/mlfa03/MyCourses/blob/main/LinkedIn/Certificates/CertificateOfCompletion_Scrum%20Advanced.pdf)
+ - Scrum Advanced - [Certificate](https://github.com/mlfa03/MyCourses/blob/main/LinkedIn/Certificates/CertificateOfCompletion_Scrum%20Advanced.pdf)
  
- - Scrum Basics - [Certificate)(https://github.com/mlfa03/MyCourses/blob/main/LinkedIn/Certificates/CertificateOfCompletion_Scrum%20The%20Basics.pdf)
+ - Scrum Basics - [Certificate](https://github.com/mlfa03/MyCourses/blob/main/LinkedIn/Certificates/CertificateOfCompletion_Scrum%20The%20Basics.pdf)
  
  - Agile Foundations - [Certificate](https://github.com/mlfa03/MyCourses/blob/main/LinkedIn/Certificates/CertificateOfCompletion_Agile%20Foundations.pdf)
  
