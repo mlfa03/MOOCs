@@ -13,7 +13,7 @@ Certificates of the LinkedIn courses on AI I completed. All courses included pra
 
 ### Courses
 
-## AI
+#### AI
   - Artificial Intelligence Foundations: Neural Networks - (Certificate)[https://github.com/mlfa03/MyCourses/blob/main/LinkedIn/Certificates/CertificateOfCompletion_Artificial%20Intelligence%20Foundations%20Neural%20Networks.pdf]
   
   - Applied Machine Learning: Algorithms - (Certificate)[https://github.com/mlfa03/MyCourses/blob/main/LinkedIn/Certificates/CertificateOfCompletion_Applied%20Machine%20Learning%20Algorithms.pdf]
@@ -28,12 +28,12 @@ Certificates of the LinkedIn courses on AI I completed. All courses included pra
  
  - Building a recommendation system with Python Machine Learning and AI - (Certificate)[https://github.com/mlfa03/MyCourses/blob/main/LinkedIn/Certificates/CertificateOfCompletion_Building%20a%20Recommendation%20System%20with%20Python%20Machine%20Learning%20%20AI.pdf]
  
- ## Cloud
+ #### Cloud
   
  - Learning Cloud Computing: Core Concepts - (Certificate)[https://github.com/mlfa03/MyCourses/blob/main/LinkedIn/Certificates/CertificateOfCompletion_Learning%20Cloud%20Computing%20Core%20Concepts.pdf]
  
  
- ## Management, Agile and Softskills
+ #### Management, Agile and Softskills
  
  - The non Technical Skills of effective Data Scientists - (Certificate)[https://github.com/mlfa03/MyCourses/blob/main/LinkedIn/Certificates/CertificateOfCompletion_The%20NonTechnical%20Skills%20of%20Effective%20Data%20Scientists.pdf ]
  
