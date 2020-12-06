@@ -4,3 +4,5 @@
 - Big Data Fundamentals
 - Hadoop Fundamentals
 - DataOps Methodology
+- Spark Fundamentals
+- Scala Programming for Data Science
