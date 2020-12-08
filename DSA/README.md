@@ -2,6 +2,8 @@
 
 - Data Engineering - *ongoing*
 
+- Data Governance - [Certificate](https://mycourse.app/gUse1CGBeM2DzbAP9)
+
 - Fundamentals of Big Data - [Certificate](https://mycourse.app/g5QUCa4VYbC3Dn3SA)
 
 - Fundamentals of Artificial Intelligence - [Certificate](https://mycourse.app/zk2NGGfpEjEwnZVU7)
