@@ -1,6 +1,11 @@
 ## Data Science Academy Courses 
 
 - Data Engineering - *ongoing*
+  - Design and implementation of Data Warehouses
+  - Data Lakes: Design, project and implementation
+  - Security and high availability of data
+  - Machine learning in distributed environments
+  - Analytics and visualization 
 
 - Data Governance - [Certificate](https://mycourse.app/gUse1CGBeM2DzbAP9)
 
