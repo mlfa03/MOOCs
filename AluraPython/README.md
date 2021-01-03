@@ -3,9 +3,11 @@
 ### Data Science
 
 
-Data Vizualization: Exploring data with Seaborn [Certificate](https://cursos.alura.com.br/certificate/c02263e3-a8bf-43da-a8ba-2cf04be195d1)
+Data Visualization: Exploring data with Seaborn [Certificate](https://cursos.alura.com.br/certificate/c02263e3-a8bf-43da-a8ba-2cf04be195d1)
 
-Data Vizualization: creating graphs with Matplotlib [Certificate](https://cursos.alura.com.br/certificate/0d990f40-6a97-4661-b8de-e37a8da72037)
+Data Visualization: creating graphs with Matplotlib [Certificate](https://cursos.alura.com.br/certificate/0d990f40-6a97-4661-b8de-e37a8da72037)
+
+Data Visualization: Exploring RawGraphs [Certificate](https://cursos.alura.com.br/certificate/9a3cda4f-5f44-41e7-ab08-5ec89f3f9dc9)
 
 Data Science: Introduction to Time Series [Certificate](https://cursos.alura.com.br/certificate/55f26fc9-f2ec-4456-9b79-af3149099f2b)
 
@@ -17,6 +19,12 @@ Python for Data Science: Functions, Packages and Basic Pandas [Certificate](http
 
 Time series analysis for predictions [Certificate](https://cursos.alura.com.br/certificate/5e1c5025-d11e-45d6-a8fb-929eec4d09fc)
 
+Time Series - Predictions with ARIMA [Certificate](https://cursos.alura.com.br/certificate/72b9d31a-49fa-4581-a006-5ab8ca831c67)
+
+Geopandas 1 [Certificate](https://cursos.alura.com.br/certificate/2b404181-dcce-4f73-8b97-6f0b9f74d6f4)
+
+Pandas I/O [Certificate](https://cursos.alura.com.br/certificate/6790cea3-41b0-483a-bc4b-ac44d4daa9e6)
+
 
 
 ### Databases | Data Engineering
@@ -24,6 +32,8 @@ Time series analysis for predictions [Certificate](https://cursos.alura.com.br/c
 Modeling Relational Databases: Entities, Relationships and Attributes [Certificate](https://cursos.alura.com.br/certificate/c62596ed-cdda-468e-8008-5d3d5d4f0ab0)
 
 Data Engineering - Concepts for Managers [Certificate](https://cursos.alura.com.br/certificate/72d1818b-ddff-4b4c-99cf-6395b80ad21e)
+
+Consults in MySQL  [Certificate](https://cursos.alura.com.br/certificate/9232149e-ca7b-4c04-9313-6523f52207d7)
 
 
 
@@ -39,6 +49,17 @@ Neural Networks : Deep Learning with Pytorch [Certificate](https://cursos.alura.
 
 Machine Learning: Introduction to Unsupervised Algorithms [Certificate](https://cursos.alura.com.br/certificate/3c853619-8a9d-4b94-83e6-c38c524bec22)
 
+Machine Learning: Model optimization with hyperparameters [Certificate](https://cursos.alura.com.br/certificate/84dd291b-dfa8-4b8c-a0fb-f8e915da095b)
+
+Machine Learning: Optimization with random exploration [Certificate](https://cursos.alura.com.br/certificate/9fd66633-6b36-49df-a10e-e311b6bb45bd)
+
+Machine Learning: Model Validation [Certificate](https://cursos.alura.com.br/certificate/2e35bcf4-47bb-4202-9909-57c5f1d7d951)
+
+Machine Learning: Introduction to recommendation systems [Certificate](https://cursos.alura.com.br/certificate/2b54366b-7e21-47d0-b42d-eedc11bca419)
+
+Deep Learning 1 - Keras Introduction [Certificate](https://cursos.alura.com.br/certificate/75bd10ea-495e-44ac-8a59-5cfda565020e)
+
+Deep Learning 2 - How the network learns [Certificate](https://cursos.alura.com.br/certificate/d5d0a2d4-7652-4287-9d9f-1fae313114b0)
 
 
 ### Statistics
@@ -58,4 +79,6 @@ Git and Github: Control and Share your code [Certificate](https://cursos.alura.c
 Python 3: Introduction to OOP [Certificate](https://cursos.alura.com.br/certificate/9e36ecac-a562-4398-a872-0eacfc54601e)
 
 Python 3: Working with I/O [Certificate](https://cursos.alura.com.br/certificate/ae2a2cfa-7166-408c-bff3-b58aaaa27a31)
+
+Flask 1 - Create a webapp [Certificate](https://cursos.alura.com.br/certificate/45772f4b-c489-4df3-a995-6a600404fce1)
 
